@@ -1,0 +1,368 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "1",
+                    "typeID": "BrowserWindow",
+                    "zOrder": "0",
+                    "w": "1050",
+                    "h": "833",
+                    "measuredW": "450",
+                    "measuredH": "400",
+                    "x": "5",
+                    "y": "0",
+                    "properties": {
+                        "text": "A Web Page\nhttps://"
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "Image",
+                    "zOrder": "1",
+                    "w": "240",
+                    "h": "79",
+                    "measuredW": "77",
+                    "measuredH": "79",
+                    "x": "66",
+                    "y": "97"
+                },
+                {
+                    "ID": "6",
+                    "typeID": "ComboBox",
+                    "zOrder": "2",
+                    "w": "182",
+                    "measuredW": "127",
+                    "measuredH": "24",
+                    "x": "356",
+                    "y": "99",
+                    "properties": {
+                        "text": "Otros Productos",
+                        "verticalScrollbar": "true",
+                        "value": "5"
+                    }
+                },
+                {
+                    "ID": "7",
+                    "typeID": "TextInput",
+                    "zOrder": "3",
+                    "w": "217",
+                    "measuredW": "79",
+                    "measuredH": "27",
+                    "x": "554",
+                    "y": "97"
+                },
+                {
+                    "ID": "9",
+                    "typeID": "Button",
+                    "zOrder": "4",
+                    "measuredW": "86",
+                    "measuredH": "27",
+                    "x": "780",
+                    "y": "97",
+                    "properties": {
+                        "text": "Regìstrate"
+                    }
+                },
+                {
+                    "ID": "10",
+                    "typeID": "Link",
+                    "zOrder": "5",
+                    "measuredW": "94",
+                    "measuredH": "21",
+                    "x": "891",
+                    "y": "97",
+                    "properties": {
+                        "text": "Quiénes Somos"
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "Image",
+                    "zOrder": "6",
+                    "w": "240",
+                    "h": "224",
+                    "measuredW": "77",
+                    "measuredH": "79",
+                    "x": "66",
+                    "y": "233"
+                },
+                {
+                    "ID": "12",
+                    "typeID": "Paragraph",
+                    "zOrder": "7",
+                    "w": "341",
+                    "h": "224",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "362",
+                    "y": "233",
+                    "properties": {
+                        "text": "Detalle del producto del día."
+                    }
+                },
+                {
+                    "ID": "14",
+                    "typeID": "VRule",
+                    "zOrder": "8",
+                    "h": "144",
+                    "measuredW": "10",
+                    "measuredH": "100",
+                    "x": "346",
+                    "y": "514"
+                },
+                {
+                    "ID": "16",
+                    "typeID": "Paragraph",
+                    "zOrder": "9",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "48",
+                    "y": "522",
+                    "properties": {
+                        "text": "Bebidas Calientes"
+                    }
+                },
+                {
+                    "ID": "17",
+                    "typeID": "Paragraph",
+                    "zOrder": "10",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "382",
+                    "y": "522",
+                    "properties": {
+                        "text": "Bebidas Frías"
+                    }
+                },
+                {
+                    "ID": "18",
+                    "typeID": "VRule",
+                    "zOrder": "11",
+                    "h": "138",
+                    "measuredW": "10",
+                    "measuredH": "100",
+                    "x": "690",
+                    "y": "517"
+                },
+                {
+                    "ID": "19",
+                    "typeID": "Paragraph",
+                    "zOrder": "12",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "716",
+                    "y": "522",
+                    "properties": {
+                        "text": "Alimentos"
+                    }
+                },
+                {
+                    "ID": "21",
+                    "typeID": "Canvas",
+                    "zOrder": "13",
+                    "w": "1044",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "8",
+                    "y": "739"
+                },
+                {
+                    "ID": "22",
+                    "typeID": "Link",
+                    "zOrder": "14",
+                    "measuredW": "100",
+                    "measuredH": "21",
+                    "x": "46",
+                    "y": "756",
+                    "properties": {
+                        "text": "Historia del Café"
+                    }
+                },
+                {
+                    "ID": "23",
+                    "typeID": "Link",
+                    "zOrder": "15",
+                    "measuredW": "116",
+                    "measuredH": "21",
+                    "x": "472",
+                    "y": "760",
+                    "properties": {
+                        "text": "Beneficios del Café"
+                    }
+                },
+                {
+                    "ID": "24",
+                    "typeID": "Link",
+                    "zOrder": "16",
+                    "measuredW": "118",
+                    "measuredH": "21",
+                    "x": "795",
+                    "y": "756",
+                    "properties": {
+                        "text": "Sedes  Juan Valdéz"
+                    }
+                },
+                {
+                    "ID": "25",
+                    "typeID": "Calendar",
+                    "zOrder": "17",
+                    "w": "198",
+                    "h": "224",
+                    "measuredW": "96",
+                    "measuredH": "96",
+                    "x": "787",
+                    "y": "233"
+                },
+                {
+                    "ID": "26",
+                    "typeID": "Paragraph",
+                    "zOrder": "18",
+                    "w": "70",
+                    "h": "20",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "787",
+                    "y": "207",
+                    "properties": {
+                        "text": "Eventos"
+                    }
+                },
+                {
+                    "ID": "27",
+                    "typeID": "HRule",
+                    "zOrder": "19",
+                    "w": "995",
+                    "measuredW": "100",
+                    "measuredH": "10",
+                    "x": "30",
+                    "y": "187"
+                },
+                {
+                    "ID": "30",
+                    "typeID": "TagCloud",
+                    "zOrder": "20",
+                    "measuredW": "350",
+                    "measuredH": "110",
+                    "x": "353",
+                    "y": "284"
+                },
+                {
+                    "ID": "31",
+                    "typeID": "Paragraph",
+                    "zOrder": "21",
+                    "w": "258",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "48",
+                    "y": "559",
+                    "properties": {
+                        "text": "Bebida caliente 1\nBebida caliente 2\nBebida caliente 3\nBebida caliente 4"
+                    }
+                },
+                {
+                    "ID": "32",
+                    "typeID": "Paragraph",
+                    "zOrder": "22",
+                    "w": "258",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "382",
+                    "y": "552",
+                    "properties": {
+                        "text": "Bebida frìa 1\nBebida frìa 2\nBebida frìa 3\nBebida frìa 4"
+                    }
+                },
+                {
+                    "ID": "33",
+                    "typeID": "Paragraph",
+                    "zOrder": "23",
+                    "w": "258",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "716",
+                    "y": "552",
+                    "properties": {
+                        "text": "Alimento 1\nAlimento 2\nAlimento 3\nAlimento 4"
+                    }
+                },
+                {
+                    "ID": "34",
+                    "typeID": "Image",
+                    "zOrder": "24",
+                    "w": "72",
+                    "h": "60",
+                    "measuredW": "77",
+                    "measuredH": "79",
+                    "x": "220",
+                    "y": "552"
+                },
+                {
+                    "ID": "35",
+                    "typeID": "Image",
+                    "zOrder": "25",
+                    "w": "72",
+                    "h": "60",
+                    "measuredW": "77",
+                    "measuredH": "79",
+                    "x": "554",
+                    "y": "552"
+                },
+                {
+                    "ID": "36",
+                    "typeID": "Image",
+                    "zOrder": "26",
+                    "w": "72",
+                    "h": "60",
+                    "measuredW": "77",
+                    "measuredH": "79",
+                    "x": "864",
+                    "y": "554"
+                },
+                {
+                    "ID": "37",
+                    "typeID": "Paragraph",
+                    "zOrder": "27",
+                    "w": "172",
+                    "h": "47",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "109",
+                    "y": "243",
+                    "properties": {
+                        "text": "imagen del producto del día"
+                    }
+                },
+                {
+                    "ID": "38",
+                    "typeID": "Paragraph",
+                    "zOrder": "28",
+                    "w": "136",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "118",
+                    "y": "97",
+                    "properties": {
+                        "text": "Logo de la Empresa"
+                    }
+                },
+                {
+                    "ID": "39",
+                    "typeID": "Map",
+                    "zOrder": "29",
+                    "w": "85",
+                    "h": "53",
+                    "measuredW": "252",
+                    "measuredH": "222",
+                    "x": "952",
+                    "y": "744"
+                }
+            ]
+        },
+        "mockupH": "833",
+        "mockupW": "1050",
+        "measuredW": "1055",
+        "measuredH": "833",
+        "version": "1.0"
+    }
+}
