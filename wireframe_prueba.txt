@@ -3,7 +3,7 @@
         "controls": {
             "control": [
                 {
-                    "ID": "1",
+                    "ID": "0",
                     "typeID": "BrowserWindow",
                     "zOrder": "0",
                     "w": "1050",
@@ -17,7 +17,7 @@
                     }
                 },
                 {
-                    "ID": "2",
+                    "ID": "1",
                     "typeID": "Image",
                     "zOrder": "1",
                     "w": "240",
@@ -28,7 +28,7 @@
                     "y": "97"
                 },
                 {
-                    "ID": "6",
+                    "ID": "2",
                     "typeID": "ComboBox",
                     "zOrder": "2",
                     "w": "182",
@@ -43,7 +43,7 @@
                     }
                 },
                 {
-                    "ID": "7",
+                    "ID": "3",
                     "typeID": "TextInput",
                     "zOrder": "3",
                     "w": "217",
@@ -53,7 +53,7 @@
                     "y": "97"
                 },
                 {
-                    "ID": "9",
+                    "ID": "4",
                     "typeID": "Button",
                     "zOrder": "4",
                     "measuredW": "86",
@@ -65,7 +65,7 @@
                     }
                 },
                 {
-                    "ID": "10",
+                    "ID": "5",
                     "typeID": "Link",
                     "zOrder": "5",
                     "measuredW": "94",
@@ -77,7 +77,7 @@
                     }
                 },
                 {
-                    "ID": "11",
+                    "ID": "6",
                     "typeID": "Image",
                     "zOrder": "6",
                     "w": "240",
@@ -88,7 +88,7 @@
                     "y": "233"
                 },
                 {
-                    "ID": "12",
+                    "ID": "7",
                     "typeID": "Paragraph",
                     "zOrder": "7",
                     "w": "341",
@@ -102,7 +102,7 @@
                     }
                 },
                 {
-                    "ID": "14",
+                    "ID": "8",
                     "typeID": "VRule",
                     "zOrder": "8",
                     "h": "144",
@@ -112,7 +112,7 @@
                     "y": "514"
                 },
                 {
-                    "ID": "16",
+                    "ID": "9",
                     "typeID": "Paragraph",
                     "zOrder": "9",
                     "measuredW": "275",
@@ -124,7 +124,7 @@
                     }
                 },
                 {
-                    "ID": "17",
+                    "ID": "10",
                     "typeID": "Paragraph",
                     "zOrder": "10",
                     "measuredW": "275",
@@ -136,7 +136,7 @@
                     }
                 },
                 {
-                    "ID": "18",
+                    "ID": "11",
                     "typeID": "VRule",
                     "zOrder": "11",
                     "h": "138",
@@ -146,7 +146,7 @@
                     "y": "517"
                 },
                 {
-                    "ID": "19",
+                    "ID": "12",
                     "typeID": "Paragraph",
                     "zOrder": "12",
                     "measuredW": "275",
@@ -158,7 +158,7 @@
                     }
                 },
                 {
-                    "ID": "21",
+                    "ID": "13",
                     "typeID": "Canvas",
                     "zOrder": "13",
                     "w": "1044",
@@ -168,7 +168,7 @@
                     "y": "739"
                 },
                 {
-                    "ID": "22",
+                    "ID": "14",
                     "typeID": "Link",
                     "zOrder": "14",
                     "measuredW": "100",
@@ -180,7 +180,7 @@
                     }
                 },
                 {
-                    "ID": "23",
+                    "ID": "15",
                     "typeID": "Link",
                     "zOrder": "15",
                     "measuredW": "116",
@@ -192,7 +192,7 @@
                     }
                 },
                 {
-                    "ID": "24",
+                    "ID": "16",
                     "typeID": "Link",
                     "zOrder": "16",
                     "measuredW": "118",
@@ -204,7 +204,7 @@
                     }
                 },
                 {
-                    "ID": "25",
+                    "ID": "17",
                     "typeID": "Calendar",
                     "zOrder": "17",
                     "w": "198",
@@ -215,7 +215,7 @@
                     "y": "233"
                 },
                 {
-                    "ID": "26",
+                    "ID": "18",
                     "typeID": "Paragraph",
                     "zOrder": "18",
                     "w": "70",
@@ -229,7 +229,7 @@
                     }
                 },
                 {
-                    "ID": "27",
+                    "ID": "19",
                     "typeID": "HRule",
                     "zOrder": "19",
                     "w": "995",
@@ -239,7 +239,7 @@
                     "y": "187"
                 },
                 {
-                    "ID": "30",
+                    "ID": "20",
                     "typeID": "TagCloud",
                     "zOrder": "20",
                     "measuredW": "350",
@@ -248,7 +248,7 @@
                     "y": "284"
                 },
                 {
-                    "ID": "31",
+                    "ID": "21",
                     "typeID": "Paragraph",
                     "zOrder": "21",
                     "w": "258",
@@ -261,7 +261,7 @@
                     }
                 },
                 {
-                    "ID": "32",
+                    "ID": "22",
                     "typeID": "Paragraph",
                     "zOrder": "22",
                     "w": "258",
@@ -274,7 +274,7 @@
                     }
                 },
                 {
-                    "ID": "33",
+                    "ID": "23",
                     "typeID": "Paragraph",
                     "zOrder": "23",
                     "w": "258",
@@ -287,7 +287,7 @@
                     }
                 },
                 {
-                    "ID": "34",
+                    "ID": "24",
                     "typeID": "Image",
                     "zOrder": "24",
                     "w": "72",
@@ -298,7 +298,7 @@
                     "y": "552"
                 },
                 {
-                    "ID": "35",
+                    "ID": "25",
                     "typeID": "Image",
                     "zOrder": "25",
                     "w": "72",
@@ -309,7 +309,7 @@
                     "y": "552"
                 },
                 {
-                    "ID": "36",
+                    "ID": "26",
                     "typeID": "Image",
                     "zOrder": "26",
                     "w": "72",
@@ -320,7 +320,7 @@
                     "y": "554"
                 },
                 {
-                    "ID": "37",
+                    "ID": "27",
                     "typeID": "Paragraph",
                     "zOrder": "27",
                     "w": "172",
@@ -334,7 +334,7 @@
                     }
                 },
                 {
-                    "ID": "38",
+                    "ID": "28",
                     "typeID": "Paragraph",
                     "zOrder": "28",
                     "w": "136",
@@ -347,7 +347,7 @@
                     }
                 },
                 {
-                    "ID": "39",
+                    "ID": "29",
                     "typeID": "Map",
                     "zOrder": "29",
                     "w": "85",
@@ -356,6 +356,18 @@
                     "measuredH": "222",
                     "x": "952",
                     "y": "744"
+                },
+                {
+                    "ID": "30",
+                    "typeID": "Label",
+                    "zOrder": "30",
+                    "measuredW": "103",
+                    "measuredH": "21",
+                    "x": "531",
+                    "y": "150",
+                    "properties": {
+                        "text": "Aquí va un burrito"
+                    }
                 }
             ]
         },
