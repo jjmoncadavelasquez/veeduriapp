@@ -9,7 +9,7 @@
                     "w": "1050",
                     "h": "833",
                     "measuredW": "450",
-                    "measuredH": "450",
+                    "measuredH": "400",
                     "x": "5",
                     "y": "0",
                     "properties": {
